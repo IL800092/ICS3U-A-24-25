@@ -5,6 +5,6 @@ public class ExampleFour {
         final int x = 7;
         int y = 8;
         y = 9;
-        
+        // x = 5; x is a constant(final) - 
     }
 }
